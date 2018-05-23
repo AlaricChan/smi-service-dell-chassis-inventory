@@ -1,4 +1,4 @@
-### smi-service-dell-chassis-inventory
+### smi-service-dell-chassis-inventory test
 
 Retrieves inventory data from a Dell blade chassis
 
